@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cryptographer</string>
+    <string name="write_tour_text_below">Write your text below:</string>
+    <string name="secret_message">Secret message</string>
+    <string name="encode_decode">Encode/Decode</string>
+    <string name="copy">Copy</string>
+    <string name="key">Key:</string>
+    <string name="your_encryption">Your encryption:</string>
+</resources>
